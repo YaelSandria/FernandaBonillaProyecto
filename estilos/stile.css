@@ -1,0 +1,62 @@
+body{
+	background-color:lightsalmon;
+}
+
+.menu{
+	text-align: center;
+	font-style: bold;
+	font-family:algerian;
+	color: black;
+font-size: 16px;	
+}
+.mu{
+	text-align: center;
+	font-style: bold;
+	font-family:algerian ;
+	color: red; 
+	font-size: 12px;
+}
+.titulos{
+	text-align: center;
+	font-style: bold;
+	font-family:Mistral;
+	color: black;
+font-size: 40px;
+}
+.tabla1{
+	font-size: 20px;
+	font-family: algerian;
+	color: black;
+	text-align: center;
+}
+h1{
+	font-size: 40px;
+	font-family: Harlow Solid Italic;
+	color: 660000;
+	text-align: center;
+}
+h3{
+font-size: 40px;
+font-family: Broadway;
+color: black;
+text-align: center;
+}
+#c4{
+text-align: center;
+	font-style: bold;
+	font-family:algerian;
+	color: blue;
+font-size: 12px;
+}
+h2{
+font-size: 40px;
+font-family: mv boli;
+color: black;
+text-align: center;	
+}
+h5{
+	font-size: 16px;
+font-family: mv boli;
+color: black;
+text-align: center;	
+}
